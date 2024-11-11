@@ -35,7 +35,7 @@ nav ul li a:hover {
 
 /* Banner styling */
 .banner {
-    background-image: url('./assets/banner.jpg'); /* Replace with actual path */
+    background-image: url('./banner.png'); /* Replace with actual path */
     background-size: cover;
     background-position: center;
     height: 300px;
